@@ -10,18 +10,18 @@ Catch the Ball is an interactive game where the player controls a paddle to catc
 
 ## Features
 
-- Responsive paddle control using keyboard input
-- Dynamic ball movement with realistic physics
-- Score tracking and display
-- Increasing difficulty as the game progresses
+- **Responsive Controls:** Precise paddle movement using keyboard input.
+- **Dynamic Physics:** Realistic ball movement and collision detection.
+- **Score Tracking:** Real-time scoring system displayed on-screen.
+- **Scaling Difficulty:** The game becomes more challenging as your score increases.
 
 ## Built with
 
-- [C++](https://isocpp.org/)
-- [VS Community](https://visualstudio.microsoft.com/vs/community/)
-- [GLFW](https://www.glfw.org/)
-- [OpenGL](https://www.opengl.org/)
-- [STB](https://github.com/nothings/stb)
+- [C++](https://isocpp.org/) - Core programming language (C++17)
+- [VS Community](https://visualstudio.microsoft.com/vs/community/) - Development IDE
+- [GLFW](https://www.glfw.org/) - Window management and input
+- [OpenGL](https://www.opengl.org/) - Graphics rendering API
+- [STB](https://github.com/nothings/stb) - Image loading and asset management
 
 ## Installation
 
@@ -35,10 +35,9 @@ Follow these steps to get started:
 1. Clone the repository to your local machine.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the following commands:
-   ```
+   ```bash
    cmake .
    make
-   ```
 4. Once the project is built successfully, you can run the game executable.
 
 ## How to Play
@@ -61,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or inquiries about this project, you can reach out to the project maintainer at [kevinlin11426@gmail.com](mailto:kevinlin11426@gmail.com).
+If you have any questions or inquiries about this project, you can reach out to the project maintainer at [xinyiklin@gmail.com](mailto:xinyiklin@gmail.com).
